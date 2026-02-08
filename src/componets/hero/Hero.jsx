@@ -48,7 +48,7 @@ export default function Hero() {
         <div className="prod-row">
 <Link to="/producdetails/1">
  <div className="prod-box" >
-            <img src="/images/luka.png/shoes1.jpg" style={{ borderRadius: '20px',height:'300px' }} />
+            <img src="/images/luka.png/shoes1.jpg" style={{ borderRadius: '20px',height:'300px ' }} />
             <div className="des">
               <span style={{ fontFamily: 'Handlee', fontSize: '15px' }}>
                 Luka 5 <br /> 'Lunar New Year' PF
@@ -57,7 +57,7 @@ export default function Hero() {
           </div>
 </Link>
  <div className="prod-box" >
-            <img src="/images/pacific-s.png/pacific1.png" style={{ borderRadius: '20px',height:'300px' }} />
+            <img src="/images/pacific-s.png/pacific1.png" style={{ borderRadius: '20px',height:'300px', }} />
             <div className="des">
               <span style={{ fontFamily: 'Handlee', fontSize: '15px' }}>
                 Luka 5 <br /> 'Lunar New Year' PF
