@@ -1,0 +1,22 @@
+.text{
+      list-style: none;
+    padding: 0 20px;
+    position: relative;
+        text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+    color: #1a1a1a;
+    transition: 0.4s ease-in-out;
+}
+#navbar .text:hover,
+#navbar .text:active {
+    color: #F36B21;
+    font-size: 18px;
+    font-family: "Handlee", cursive;
+
+}
+.sticky {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
