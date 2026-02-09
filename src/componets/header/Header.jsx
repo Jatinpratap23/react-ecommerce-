@@ -1,7 +1,7 @@
 import React from 'react'
 import '../header/header.css';
 import { Link } from 'react-router-dom';
-import Regis from '../Registration/Regis';
+import Regis from '../Registration/Regis.jsx';
 
 export default function Header() {
   return (
